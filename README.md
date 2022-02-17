@@ -1,6 +1,6 @@
+<!--
 ### Hi there 👋
 
-<!--
 **tcjj3/tcjj3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Chaojun Tan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tcjj3&show_icons=true&hide=contribs,prs&include_all_commits=true&bg_color=30,85c0ff,58a6ff&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/tcjj3)
